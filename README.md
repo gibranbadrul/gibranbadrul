@@ -6,7 +6,7 @@
   alt="functional programming is the right way"
   style="margin-top:20px;margin-right:25px"
   align="left" 
-  height="300px"
+  height="400px"
 />
 </a>
 
