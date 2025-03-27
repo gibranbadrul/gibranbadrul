@@ -25,8 +25,8 @@ fn main() {
 }
 ```
 
-[![pgp](https://img.shields.io/badge/pgp-0x9C23DC644736BD4D-313131?style=flat&labelColor=545454&color=313131)](https://keys.openpgp.org/search?q=9C23DC644736BD4D)
-[![views](https://komarev.com/ghpvc/?username=gibranbadrul&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/gibranbadrul)
+[![pgp](https://img.shields.io/badge/pgp-0x9C23DC644736BD4D-313131?style=flat&labelColor=545454&color=EA3F00)](https://keys.openpgp.org/search?q=9C23DC644736BD4D)
+[![views](https://komarev.com/ghpvc/?username=gibranbadrul&style=flat&color=236660&label=views&abbreviated=true)](https://github.com/gibranbadrul)
 
 ---
 
